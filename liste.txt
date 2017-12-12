@@ -1,2 +1,4 @@
 Lait
 Oeufs
+Farine
+Sucre
